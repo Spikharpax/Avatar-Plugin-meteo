@@ -1,6 +1,6 @@
 # Avatar-Plugin-meteo
 
-Ce plugin est un add-on pour le framework [Avatar](https://github.com/Spikharpax/Avatar-Serveur).
+Ce plugin est un add-on pour le framework [Avatar](https://github.com/Spikharpax/Avatar-Serveur-3.0).
 
 Donne la météo dans toutes les grandes villes du monde.
 
