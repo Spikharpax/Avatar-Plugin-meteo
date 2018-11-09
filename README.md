@@ -1,4 +1,4 @@
-# Avatar-Plugin-meteo
+# Méteo du monde
 
 Ce plugin est un add-on pour le framework [Avatar](https://github.com/Spikharpax/Avatar-Serveur-3.0).
 
